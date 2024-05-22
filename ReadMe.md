@@ -26,4 +26,4 @@ Projet de la formation OpenClassrooms intégrateur web dont voici les objectifs:
 
 **Home page**
 
-![Booki home page](https://github.com/Yelhie/xi5ftcai605u/blob/master/img/booki_23170251.jpg)
+![Booki home page](https://github.com/Yelhie/Booki/blob/master/screenshot/booki_23170251.jpg)
