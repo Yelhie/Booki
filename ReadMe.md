@@ -15,12 +15,11 @@ Projet de la formation OpenClassrooms intégrateur web dont voici les objectifs:
 
 [Démo Booki](https://yelhie.github.io/Booki/)
 
-## Stack
 
-**Client:**
-
-- HTML
-- Css
+|  Backend   | Frontend | Base de données | Documentation API et Test |
+|:----------:|:--------:|:---------------:|:-------------------------:|
+|  |    HTML   |                 |                   |
+|  |    CSS  |               |                     |
 
 ## Screenshots
 
